@@ -8,8 +8,8 @@ This repository contains the PyTorch code for the paper:
 <a href="http://disi.unitn.it/~passerini/">Andrea Passerini</a>*  
 
 ## Model architecture
-<p align="center">![FUSION-ME - overview](/images/model.png)</p>
-![FUSION-ME - overview](/images/tasks.png)
+![FUSION-ME - overview]<p align="center">(/images/model.png)</p>
+![FUSION-ME - overview]<p align="center">(/images/tasks.png)</p>
 
 ## Prerequisites
 * Python >= 3.8
