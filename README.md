@@ -9,7 +9,6 @@ This repository contains the PyTorch code for the paper:
 
 ## Model architecture
 ![FUSION-ME - overview](/images/model.png)
-![FUSION-ME - overview](/images/tasks.png)
 
 ## Prerequisites
 * Python >= 3.8
