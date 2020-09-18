@@ -10,7 +10,7 @@ This repository contains the PyTorch code for the paper:
 ## Model architecture
 ![FUSION-ME - overview](/images/model.png)
 
-Scheme of FUSION-ME. The model is composed of 4 phases: embedding learning network phase, unsuper- vised task construction phase, meta-continual training phase and meta-continual test phase.
+Scheme of FUSION-ME. The model is composed of 4 phases: embedding learning network phase, unsupervised task construction phase, meta-continual training phase and meta-continual test phase.
 ## Prerequisites
 * Python >= 3.8
 * PyTorch >= 1.5
