@@ -1,7 +1,7 @@
 # Few-Shot Unsupervised Continual Learning through Meta-Examples
 This repository contains the PyTorch code for the paper:
 
-**<a href="https://arxiv.org/abs/...">Few-Shot Unsupervised Continual Learning through Meta-Examples</a>**  
+**<a href="https://arxiv.org/abs/2009.08107">Few-Shot Unsupervised Continual Learning through Meta-Examples</a>**  
 *<a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=110">Alessia Bertugli</a>,
 <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=111">Stefano Vincenzi</a>,
 <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=38">Simone Calderara</a>,
