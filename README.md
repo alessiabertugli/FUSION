@@ -8,18 +8,16 @@ This repository contains the PyTorch code for paper:
 <a href="http://disi.unitn.it/~passerini/">Andrea Passerini</a>*  
 
 ## Model architecture
-
-![fusion-me - overview](images/model.pdf)
+![FUSION-ME - overview](images/model.pdf)
+![FUSION-ME - overview](images/tasks.pdf)
 
 ## Prerequisites
-
 * Python >= 3.8
 * PyTorch >= 1.5
 * CUDA 10.0
 
 
 ## Datasets
-
 * *<a href="https://github.com/brendenlake/omniglot">Omniglot</a>*
 * *<a href="http://www.image-net.org">Mini-ImageNet</a>*
 * *<a href="https://zenodo.org/record/3672132#.X2R9ay2w3pA">SlimageNet64</a>*
@@ -28,10 +26,9 @@ This repository contains the PyTorch code for paper:
 
 ## Embeddings
 You can generate embeddings for Mini-ImageNet and SlimageNet64 using the code of *<a href="https://github.com/facebookresearch/deepcluster">DeepCluster</a>*
-and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from
+and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from here (available soon).
 
 ## Best models
-
 Available soon.
 
 ## Credits
