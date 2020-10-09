@@ -26,10 +26,17 @@ Scheme of FUSION-ME. The model is composed of 4 phases: embedding learning netwo
 
 ## Embeddings
 You can generate embeddings for Mini-ImageNet and SlimageNet64 using the code of *<a href="https://github.com/facebookresearch/deepcluster">DeepCluster</a>*
-and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from here (available soon).
+and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from [here] (https://drive.google.com/drive/folders/12sXdgg_Cahoki1ldrhI5jXnAOe3RrHhC?usp=sharing).
 
 ## Best models
 Available soon.
+
+## Usage Example on Omniglot
+1. Download the embeddings from the link above, then set the ``data_folder`` variable in the ``get_embeddings`` function contained in the ``dataset/utils.py`` file equal to your dataset path;
+1. in the file ``trainers/fusion.py`` set the arg ``--dataset`` equal to the dataset name you want to train on (e.g. Omniglot or Imagenet);
+1. set the arg ``--attention`` to exploit the meta-examples and ``--num_clusters`` to the desired number of clusters;
+1. run the file ``trainers/fusion.py``.
+* Note that the _unsupervised task construction_ is carried out by the function ``cactus_unbalance`` defined in the file ``dataset/dataset_factory`` and executed in the ``trainers/fusion.py`` file.
 
 ## Credits
 * *<a href="https://github.com/kylehkhsu/cactus-maml">CACTUs-MAML: Clustering to Automatically Generate Tasks for Unsupervised Model-Agnostic Meta-Learning</a>*
