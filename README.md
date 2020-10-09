@@ -26,7 +26,7 @@ Scheme of FUSION-ME. The model is composed of 4 phases: embedding learning netwo
 
 ## Embeddings
 You can generate embeddings for Mini-ImageNet and SlimageNet64 using the code of *<a href="https://github.com/facebookresearch/deepcluster">DeepCluster</a>*
-and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from [here] (https://drive.google.com/drive/folders/12sXdgg_Cahoki1ldrhI5jXnAOe3RrHhC?usp=sharing).
+and for Omniglot the code of *<a href="https://github.com/brain-research/acai">ACAI</a>* or download them from [here](https://drive.google.com/drive/folders/12sXdgg_Cahoki1ldrhI5jXnAOe3RrHhC?usp=sharing).
 
 ## Best models
 Available soon.
