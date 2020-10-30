@@ -52,7 +52,7 @@ If you find this repository useful for your research, please cite the following 
 @article{Bertugli2020fusion-me,
   title={Few-Shot Unsupervised Continual Learning through Meta-Examples},
   author={Alessia Bertugli and Stefano Vincenzi and Simone Calderara and Andrea Passerini},
-  journal={34rd Conference on Neural Information Processing Systems (NeurIPS 2020), 4rd Workshop on Meta-Learning},
+  journal={34rd Conference on Neural Information Processing Systems (NeurIPS 2020), 4th Workshop on Meta-Learning},
   year={2020},
   volume={abs/2009.08107}
 }
