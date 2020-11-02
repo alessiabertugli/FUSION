@@ -1,5 +1,5 @@
 # Few-Shot Unsupervised Continual Learning through Meta-Examples
-This repository contains the PyTorch code for the paper:
+This repository contains the PyTorch code for *<a href="https://nips.cc/Conferences/2020/">NeurIPS 2020</a>*, *<a href="https://meta-learn.github.io/2020/">4th Workshop on Meta-Learning</a>* paper:
 
 **<a href="https://arxiv.org/abs/2009.08107">Few-Shot Unsupervised Continual Learning through Meta-Examples</a>**  
 *<a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=110">Alessia Bertugli</a>,
